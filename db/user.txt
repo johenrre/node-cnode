@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "rookie",
+    "password": "6aa61ba1213b734b79cd659110994562d085d326",
+    "note": "",
+    "role": 2,
+    "avatar": "8e902d3b2e610cc747b3c4950b97dcff"
+  },
+  {
+    "id": 2,
+    "username": "rookie2",
+    "password": "6aa61ba1213b734b79cd659110994562d085d326",
+    "note": "",
+    "role": 2,
+    "avatar": "9e63680ccbf89bcc0d61858948e2de0c"
+  }
+]

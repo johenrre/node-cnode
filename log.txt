@@ -1,0 +1,1551 @@
+10:15:2 listening server at http://0.0.0.0:4000
+14:49:17 listening server at http://0.0.0.0:4000
+14:50:5 debug ms,[object Object]
+14:50:40 debug ms,[object Object]
+14:50:45 debug ms,[object Object]
+20:18:46 listening server at http://0.0.0.0:4000
+20:18:55 listening server at http://0.0.0.0:4000
+20:19:0 listening server at http://0.0.0.0:4000
+20:20:27 debug ms,[object Object]
+20:21:12 listening server at http://0.0.0.0:4000
+20:21:25 debug ms,[object Object]
+20:21:55 debug ms,[object Object]
+20:21:56 debug ms,
+20:22:49 debug ms,{
+  "id": 1,
+  "views": 0,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+}
+20:31:7 listening server at http://0.0.0.0:4000
+20:34:14 listening server at http://0.0.0.0:4000
+20:34:20 listening server at http://0.0.0.0:4000
+20:34:25 debug ms,{
+  "id": 1,
+  "views": 0,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+}
+20:34:31 debug ms,{
+  "id": 1,
+  "views": 1,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+}
+20:37:35 listening server at http://0.0.0.0:4000
+20:44:52 如果登录了就什么都不做, 继续下一个请求函数
+20:45:12 listening server at http://0.0.0.0:4000
+20:45:16 listening server at http://0.0.0.0:4000
+20:45:19 如果登录了就什么都不做, 继续下一个请求函数
+20:46:12 如果登录了就什么都不做, 继续下一个请求函数
+21:0:28 debug ms,[object Object]
+21:0:30 debug ms,{
+  "id": 1,
+  "views": 5,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+}
+21:6:33 listening server at http://0.0.0.0:4000
+21:13:57 debug ms,[object Object]
+21:15:21 debug ms,[object Object]
+21:15:24 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+}
+21:15:38 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+}
+21:16:5 debug ms,[object Object]
+21:20:45 listening server at http://0.0.0.0:4000
+21:22:47 listening server at http://0.0.0.0:4000
+21:23:3 listening server at http://0.0.0.0:4000
+21:23:11 listening server at http://0.0.0.0:4000
+21:24:46 listening server at http://0.0.0.0:4000
+21:25:21 listening server at http://0.0.0.0:4000
+21:26:14 listening server at http://0.0.0.0:4000
+21:29:44 debug ms,[object Object]
+21:46:31 listening server at http://0.0.0.0:4000
+21:50:17 listening server at http://0.0.0.0:4000
+21:51:57 listening server at http://0.0.0.0:4000
+21:52:35 listening server at http://0.0.0.0:4000
+21:52:39 listening server at http://0.0.0.0:4000
+21:52:42 debug ms,[object Object]
+21:57:4 debug ms,[object Object]
+21:57:59 listening server at http://0.0.0.0:4000
+22:3:52 listening server at http://0.0.0.0:4000
+22:5:58 debug ms,[object Object]
+22:7:9 debug ms,[object Object]
+22:7:14 debug ms,[object Object]
+14:19:35 listening server at http://0.0.0.0:5000
+14:19:41 listening server at http://0.0.0.0:6000
+14:19:49 listening server at http://0.0.0.0:6000
+14:21:11 listening server at http://0.0.0.0:5555
+14:21:13 listening server at http://0.0.0.0:2333
+14:21:18 debug ms,[object Object]
+14:21:25 debug ms,
+14:29:24 listening server at http://0.0.0.0:2333
+14:29:37 debug ms,[object Object]
+14:29:45 debug ms,[object Object]
+14:29:51 debug ms,
+14:30:4 listening server at http://0.0.0.0:2333
+14:30:9 debug ms,[object Object]
+14:30:10 debug ms,[object Object]
+14:31:57 listening server at http://0.0.0.0:2333
+14:32:23 debug ms,[object Object]
+14:38:33 listening server at http://0.0.0.0:2333
+14:38:50 listening server at http://0.0.0.0:2333
+14:38:52 listening server at http://0.0.0.0:2333
+14:39:25 debug ms,[object Object]
+14:41:14 listening server at http://0.0.0.0:2333
+14:44:33 listening server at http://0.0.0.0:2333
+14:44:40 debug ms,[object Object]
+14:48:31 listening server at http://0.0.0.0:2333
+14:48:52 debug ms,[object Object]
+14:49:41 debug ms,[object Object]
+14:49:42 debug ms,[object Object]
+14:49:43 debug ms,[object Object]
+14:49:43 debug ms,[object Object]
+14:49:44 debug ms,[object Object]
+14:49:44 debug ms,[object Object]
+14:50:5 debug ms,[object Object]
+14:50:47 listening server at http://0.0.0.0:2333
+14:51:8 listening server at http://0.0.0.0:2333
+14:51:26 listening server at http://0.0.0.0:2333
+14:51:36 debug ms,[object Object]
+14:51:48 debug ms,[object Object]
+14:52:19 listening server at http://0.0.0.0:2333
+14:52:20 debug ms,[object Object]
+14:57:3 listening server at http://0.0.0.0:2333
+14:57:18 debug ms,[object Object]
+14:57:19 debug ms,
+14:57:20 debug ms,
+14:57:21 debug ms,
+14:57:21 debug ms,
+14:57:21 debug ms,
+14:57:22 debug ms,
+14:57:22 debug ms,
+14:57:22 debug ms,
+14:57:22 debug ms,
+14:57:23 debug ms,
+14:57:23 debug ms,
+14:57:51 listening server at http://0.0.0.0:2333
+14:57:52 debug ms,
+14:58:0 listening server at http://0.0.0.0:2333
+14:58:26 listening server at http://0.0.0.0:2333
+14:58:31 debug ms,
+14:58:32 debug ms,
+14:58:42 listening server at http://0.0.0.0:2333
+14:58:43 debug ms,
+14:58:49 debug ms,
+15:4:7 listening server at http://0.0.0.0:2333
+15:4:14 listening server at http://0.0.0.0:2333
+15:9:21 debug ms,[object Object]
+15:9:37 listening server at http://0.0.0.0:2333
+15:9:38 debug ms,[object Object]
+15:9:42 debug ms,[object Object]
+15:9:43 debug ms,[object Object]
+15:9:43 debug ms,[object Object]
+15:10:11 listening server at http://0.0.0.0:2333
+15:10:15 debug ms,[object Object]
+15:10:47 debug ms,[object Object]
+15:11:40 debug ms,[object Object]
+15:11:56 listening server at http://0.0.0.0:2333
+15:12:0 debug ms,[object Object]
+15:12:0 debug ms,[object Object]
+15:12:1 debug ms,[object Object]
+15:12:16 listening server at http://0.0.0.0:2333
+15:12:18 debug ms,[object Object]
+15:12:19 debug ms,[object Object]
+15:12:33 listening server at http://0.0.0.0:2333
+15:12:37 listening server at http://0.0.0.0:2333
+15:12:39 debug ms,[object Object]
+15:12:40 debug ms,[object Object]
+15:12:51 listening server at http://0.0.0.0:2333
+15:12:56 debug ms,[object Object]
+15:12:57 debug ms,[object Object]
+15:13:37 debug ms,[object Object]
+15:13:37 debug ms,[object Object]
+15:14:9 debug ms,[object Object]
+15:14:30 debug ms,[object Object]
+15:16:23 debug ms,[object Object]
+15:16:30 debug ms,[object Object]
+15:16:44 debug ms,[object Object]
+15:16:45 debug ms,
+15:17:34 debug ms,
+15:17:35 debug ms,
+15:17:36 debug ms,
+15:17:36 debug ms,
+15:17:46 debug ms,{
+  "id": 1,
+  "title": "分享",
+  "ct": 1496474266721,
+  "ut": 1496474266721
+}
+15:18:8 listening server at http://0.0.0.0:2333
+15:18:10 debug ms,{
+  "id": 1,
+  "title": "分享",
+  "ct": 1496474266721,
+  "ut": 1496474266721
+}
+15:19:44 debug ms,{
+  "id": 1,
+  "title": "分享",
+  "ct": 1496474266721,
+  "ut": 1496474266721
+}
+15:20:23 listening server at http://0.0.0.0:2333
+15:20:32 listening server at http://0.0.0.0:2333
+15:20:41 listening server at http://0.0.0.0:2333
+15:20:47 listening server at http://0.0.0.0:2333
+15:20:52 debug ms,{
+  "id": 1,
+  "title": "分享",
+  "ct": 1496474266721,
+  "ut": 1496474266721
+}
+15:20:53 model,{
+  "id": 1,
+  "title": "分享",
+  "ct": 1496474266721,
+  "ut": 1496474266721
+}
+15:21:2 listening server at http://0.0.0.0:2333
+15:21:4 model,{
+  "id": 1,
+  "title": "分享",
+  "ct": 1496474266721,
+  "ut": 1496474266721
+}
+15:24:30 listening server at http://0.0.0.0:2333
+15:24:57 listening server at http://0.0.0.0:2333
+15:25:10 listening server at http://0.0.0.0:2333
+15:25:58 listening server at http://0.0.0.0:2333
+15:26:44 listening server at http://0.0.0.0:2333
+15:26:49 model,{
+  "id": 1,
+  "title": "分享123",
+  "ct": 1496474266721,
+  "ut": 1496474806869
+}
+15:27:1 listening server at http://0.0.0.0:2333
+15:27:12 model,{
+  "id": 1,
+  "title": "分享123",
+  "ct": 1496474266721,
+  "ut": 1496474811034
+}
+15:27:14 debug ms,{
+  "id": 1,
+  "title": "分享12334",
+  "ct": 1496474266721,
+  "ut": 1496474834743
+}
+15:27:34 debug ms,{
+  "id": 1,
+  "title": "分享12334",
+  "ct": 1496474266721,
+  "ut": 1496474834743
+},{
+  "id": 2,
+  "title": "分享",
+  "ct": 1496474854061,
+  "ut": 1496474854061
+}
+15:27:36 debug ms,{
+  "id": 2,
+  "title": "分享",
+  "ct": 1496474854061,
+  "ut": 1496474854061
+}
+15:27:41 debug ms,{
+  "id": 2,
+  "title": "分享",
+  "ct": 1496474854061,
+  "ut": 1496474854061
+},{
+  "id": 3,
+  "title": "问答",
+  "ct": 1496474861826,
+  "ut": 1496474861826
+}
+15:31:59 listening server at http://0.0.0.0:2333
+15:32:38 listening server at http://0.0.0.0:2333
+15:33:45 debug ms,[object Object]
+15:33:46 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+}
+15:35:48 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "userId": ""
+},{
+  "id": 2,
+  "views": 0,
+  "title": "node12课",
+  "content": "node12课的内容",
+  "ct": 1496475348569,
+  "ut": 1496475348569,
+  "userId": ""
+}
+15:37:0 listening server at http://0.0.0.0:2333
+15:37:9 listening server at http://0.0.0.0:2333
+15:37:13 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "user_id": "",
+  "board_id": -1,
+  "userId": ""
+},{
+  "id": 2,
+  "views": 0,
+  "title": "node12课",
+  "content": "node12课的内容",
+  "ct": 1496475348569,
+  "ut": 1496475348569,
+  "user_id": "",
+  "board_id": -1,
+  "userId": ""
+}
+15:37:16 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "user_id": "",
+  "board_id": -1,
+  "userId": ""
+},{
+  "id": 2,
+  "views": 0,
+  "title": "node12课",
+  "content": "node12课的内容",
+  "ct": 1496475348569,
+  "ut": 1496475348569,
+  "user_id": "",
+  "board_id": -1,
+  "userId": ""
+}
+15:37:39 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "user_id": "",
+  "board_id": -1,
+  "userId": ""
+},{
+  "id": 2,
+  "views": 1,
+  "title": "node12课",
+  "content": "node12课的内容",
+  "ct": 1496475348569,
+  "ut": 1496475348569,
+  "user_id": "",
+  "board_id": -1,
+  "userId": ""
+},{
+  "id": 3,
+  "views": 0,
+  "title": "node122232",
+  "content": "hello world",
+  "ct": 1496475458999,
+  "ut": 1496475458999,
+  "user_id": "",
+  "board_id": 3
+}
+15:38:27 debug ms,{
+  "id": 1,
+  "views": 6,
+  "title": "node8.0 发布了",
+  "content": "node8.0 已经发布了, 可以考虑使用",
+  "ct": 1496406169616,
+  "ut": 1496406169616,
+  "user_id": "",
+  "board_id": -1
+},{
+  "id": 2,
+  "views": 1,
+  "title": "node12课",
+  "content": "node12课的内容",
+  "ct": 1496475348569,
+  "ut": 1496475348569,
+  "user_id": "",
+  "board_id": -1
+},{
+  "id": 3,
+  "views": 0,
+  "title": "node122232",
+  "content": "hello world",
+  "ct": 1496475458999,
+  "ut": 1496475458999,
+  "user_id": "",
+  "board_id": 3
+}
+15:45:36 listening server at http://0.0.0.0:2333
+15:46:55 listening server at http://0.0.0.0:2333
+15:47:12 listening server at http://0.0.0.0:2333
+15:48:21 listening server at http://0.0.0.0:2333
+15:48:23 debug args,[object Object]
+15:48:58 debug args,[object Object]
+15:48:59 debug args,[object Object]
+15:49:0 debug args,[object Object]
+15:49:1 debug args,[object Object]
+15:49:2 debug args,[object Object]
+15:49:5 debug args,[object Object]
+15:49:59 debug args,[object Object]
+15:51:4 listening server at http://0.0.0.0:2333
+15:51:6 debug args,[object Object]
+15:51:51 listening server at http://0.0.0.0:2333
+15:52:11 listening server at http://0.0.0.0:2333
+15:52:13 debug board id in route,2
+15:52:33 listening server at http://0.0.0.0:2333
+15:52:35 debug board id in route,2
+15:53:11 listening server at http://0.0.0.0:2333
+15:53:18 debug board id in route,2
+15:54:35 listening server at http://0.0.0.0:2333
+15:54:43 listening server at http://0.0.0.0:2333
+15:54:45 debug board id in route,2
+15:54:47 debug board id in route,2
+15:54:48 debug board id in route,2
+15:54:49 debug board id in route,-1
+15:54:49 debug board id in route,2
+15:54:50 debug board id in route,3
+15:54:51 debug board id in route,2
+15:54:52 debug board id in route,-1
+15:54:53 debug board id in route,2
+15:54:53 debug board id in route,3
+15:55:13 debug board id in route,3
+15:55:30 debug board id in route,-1
+15:55:33 debug board id in route,2
+15:55:34 debug board id in route,-1
+15:55:35 debug board id in route,3
+15:55:36 debug board id in route,2
+15:55:37 debug board id in route,-1
+15:55:38 debug board id in route,2
+15:55:39 debug board id in route,3
+15:56:6 debug board id in route,-1
+15:56:8 debug board id in route,2
+15:56:9 debug board id in route,3
+15:56:10 debug board id in route,-1
+15:57:6 debug board id in route,2
+15:57:8 debug board id in route,3
+15:57:10 debug board id in route,-1
+15:57:12 debug board id in route,3
+15:57:14 debug board id in route,2
+15:57:21 debug board id in route,3
+15:57:29 debug board id in route,2
+15:58:0 debug board id in route,2
+15:59:54 listening server at http://0.0.0.0:2333
+16:0:0 listening server at http://0.0.0.0:2333
+16:0:2 debug board id in route,2
+16:0:4 debug board id in route,2
+16:0:5 debug board id in route,3
+16:0:5 debug board id in route,2
+16:0:6 debug board id in route,-1
+16:0:7 debug board id in route,2
+16:0:8 debug board id in route,3
+16:0:19 listening server at http://0.0.0.0:2333
+16:0:22 debug board id in route,3
+16:0:23 debug board id in route,2
+16:0:24 debug board id in route,3
+16:0:25 debug board id in route,2
+16:0:26 debug board id in route,-1
+16:0:27 debug board id in route,-1
+16:0:41 listening server at http://0.0.0.0:2333
+16:0:43 debug board id in route,-1
+16:0:44 debug board id in route,2
+16:0:45 debug board id in route,3
+16:0:45 debug board id in route,2
+16:0:46 debug board id in route,-1
+16:2:38 listening server at http://0.0.0.0:2333
+16:3:18 listening server at http://0.0.0.0:2333
+16:4:5 debug board id in route,-1
+16:5:5 debug board id in route,-1
+16:5:15 debug board id in route,-1
+16:5:16 debug board id in route,2
+16:5:18 debug board id in route,3
+16:5:19 debug board id in route,2
+16:5:20 debug board id in route,3
+16:5:23 debug board id in route,2
+16:5:24 debug board id in route,3
+16:5:41 debug board id in route,3
+16:6:25 debug board id in route,3
+16:6:49 debug board id in route,3
+16:6:51 debug board id in route,2
+16:6:52 debug board id in route,-1
+16:6:53 debug board id in route,3
+16:6:54 debug board id in route,2
+16:8:28 debug board id in route,2
+16:8:29 debug board id in route,3
+16:8:30 debug board id in route,2
+16:8:31 debug board id in route,-1
+16:8:32 debug board id in route,2
+16:8:34 debug board id in route,3
+16:9:42 listening server at http://0.0.0.0:2333
+16:9:45 listening server at http://0.0.0.0:2333
+16:10:42 listening server at http://0.0.0.0:2333
+16:11:48 listening server at http://0.0.0.0:2333
+16:12:5 listening server at http://0.0.0.0:2333
+16:12:25 debug board id in route,-1
+16:12:26 debug board id in route,2
+16:13:26 debug board id in route,2
+16:13:29 debug board id in route,-1
+16:13:58 debug board id in route,-1
+16:14:56 listening server at http://0.0.0.0:2333
+16:16:25 listening server at http://0.0.0.0:2333
+16:17:20 listening server at http://0.0.0.0:2333
+16:22:4 listening server at http://0.0.0.0:2333
+16:22:13 listening server at http://0.0.0.0:2333
+16:26:17 listening server at http://0.0.0.0:2333
+16:26:23 listening server at http://0.0.0.0:2333
+16:26:40 listening server at http://0.0.0.0:2333
+16:26:41 listening server at http://0.0.0.0:2333
+16:27:28 listening server at http://0.0.0.0:2333
+16:28:47 listening server at http://0.0.0.0:2333
+16:28:54 listening server at http://0.0.0.0:2333
+16:29:2 listening server at http://0.0.0.0:2333
+16:31:47 listening server at http://0.0.0.0:2333
+16:32:5 listening server at http://0.0.0.0:2333
+16:32:30 listening server at http://0.0.0.0:2333
+16:33:30 listening server at http://0.0.0.0:2333
+16:33:37 listening server at http://0.0.0.0:2333
+16:35:21 listening server at http://0.0.0.0:2333
+16:35:33 listening server at http://0.0.0.0:2333
+16:35:45 listening server at http://0.0.0.0:2333
+16:37:11 listening server at http://0.0.0.0:2333
+16:37:12 listening server at http://0.0.0.0:2333
+16:37:29 listening server at http://0.0.0.0:2333
+16:37:57 listening server at http://0.0.0.0:2333
+16:38:8 listening server at http://0.0.0.0:2333
+16:50:24 listening server at http://0.0.0.0:2333
+17:1:32 listening server at http://0.0.0.0:2333
+17:9:45 listening server at http://0.0.0.0:2333
+17:22:0 listening server at http://0.0.0.0:2333
+17:22:46 debug request file,[object Object]
+17:25:20 listening server at http://0.0.0.0:2333
+17:25:50 listening server at http://0.0.0.0:2333
+17:27:11 listening server at http://0.0.0.0:2333
+17:27:42 listening server at http://0.0.0.0:2333
+17:28:41 debug request file,[object Object]
+17:30:5 listening server at http://0.0.0.0:2333
+17:30:15 debug request file,[object Object]
+17:30:15 debug u instance of ,false
+17:30:29 listening server at http://0.0.0.0:2333
+17:30:32 debug request file,
+17:30:44 debug request file,[object Object]
+17:30:44 debug u instance of ,[object Object],false
+17:31:6 listening server at http://0.0.0.0:2333
+17:31:18 登录检测: 没有登录,POST
+17:31:37 debug ms,[object Object]
+17:31:55 如果登录了就什么都不做, 继续下一个请求函数
+17:31:55 debug request file,[object Object]
+17:31:55 debug u instance of ,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "uploads/2ef619c8c2435878b72465e9bc4b9032"
+},true
+17:32:4 listening server at http://0.0.0.0:2333
+17:32:13 如果登录了就什么都不做, 继续下一个请求函数
+17:32:13 debug request file,[object Object]
+17:32:13 debug u instance of ,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "uploads/174f73950868ca38548d54d8ed026843"
+},true
+17:34:54 listening server at http://0.0.0.0:2333
+17:35:3 listening server at http://0.0.0.0:2333
+17:35:40 listening server at http://0.0.0.0:2333
+17:36:3 listening server at http://0.0.0.0:2333
+17:36:36 listening server at http://0.0.0.0:2333
+17:37:0 listening server at http://0.0.0.0:2333
+17:37:31 listening server at http://0.0.0.0:2333
+17:37:42 如果登录了就什么都不做, 继续下一个请求函数
+17:37:42 debug request file,[object Object]
+17:37:42 debug u instance of ,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "c3a6c4601791ee6b5b05c8358d0f64dc"
+},true
+17:38:19 listening server at http://0.0.0.0:2333
+17:38:26 如果登录了就什么都不做, 继续下一个请求函数
+17:38:26 debug request file,[object Object]
+17:38:26 debug u instance of ,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "c1c0169738baff2275ae66a0adce9e8b"
+},true
+17:39:11 listening server at http://0.0.0.0:2333
+17:39:14 listening server at http://0.0.0.0:2333
+17:39:17 如果登录了就什么都不做, 继续下一个请求函数
+17:39:17 debug request file,
+17:39:37 如果登录了就什么都不做, 继续下一个请求函数
+17:39:37 debug request file,[object Object]
+17:40:50 listening server at http://0.0.0.0:2333
+17:40:53 如果登录了就什么都不做, 继续下一个请求函数
+17:40:53 如果登录了就什么都不做, 继续下一个请求函数
+17:40:54 如果登录了就什么都不做, 继续下一个请求函数
+17:40:54 如果登录了就什么都不做, 继续下一个请求函数
+17:41:8 listening server at http://0.0.0.0:2333
+17:41:9 如果登录了就什么都不做, 继续下一个请求函数
+17:41:9 如果登录了就什么都不做, 继续下一个请求函数
+17:41:15 如果登录了就什么都不做, 继续下一个请求函数
+17:41:15 debug request file,[object Object]
+17:41:15 debug u,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "fc252cb568d40ad4d115fd2ecfdf56fa"
+}
+17:41:15 如果登录了就什么都不做, 继续下一个请求函数
+17:41:15 如果登录了就什么都不做, 继续下一个请求函数
+17:41:41 如果登录了就什么都不做, 继续下一个请求函数
+17:41:42 如果登录了就什么都不做, 继续下一个请求函数
+17:42:31 listening server at http://0.0.0.0:2333
+17:42:33 如果登录了就什么都不做, 继续下一个请求函数
+17:42:33 如果登录了就什么都不做, 继续下一个请求函数
+17:42:40 如果登录了就什么都不做, 继续下一个请求函数
+17:42:40 debug request file,[object Object]
+17:42:40 debug u,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "f4db71cf9e417b025c623dea3bf8c5ee"
+}
+17:42:59 listening server at http://0.0.0.0:2333
+17:43:1 如果登录了就什么都不做, 继续下一个请求函数
+17:43:1 debug path,upload/f4db71cf9e417b025c623dea3bf8c5ee
+17:43:13 如果登录了就什么都不做, 继续下一个请求函数
+17:43:13 debug path,upload/f4db71cf9e417b025c623dea3bf8c5ee
+17:46:18 listening server at http://0.0.0.0:2333
+17:46:22 如果登录了就什么都不做, 继续下一个请求函数
+17:46:22 debug path,[object Object]
+17:46:32 如果登录了就什么都不做, 继续下一个请求函数
+17:46:32 debug request file,[object Object]
+17:46:32 debug u,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "26fdf930f4119d92a10ad950bb72f0b3"
+}
+17:46:32 如果登录了就什么都不做, 继续下一个请求函数
+17:46:32 debug path,[object Object]
+17:46:49 如果登录了就什么都不做, 继续下一个请求函数
+17:46:49 debug request file,[object Object]
+17:46:49 debug u,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "e466f49537c5f9991f0d3f0d495a6ddc"
+}
+17:46:49 如果登录了就什么都不做, 继续下一个请求函数
+17:46:49 debug path,[object Object]
+17:47:31 如果登录了就什么都不做, 继续下一个请求函数
+17:47:31 debug path,[object Object]
+17:47:40 如果登录了就什么都不做, 继续下一个请求函数
+17:47:40 debug request file,[object Object]
+17:47:40 debug u,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "50e066b858cf1efa228d28820d506858"
+}
+17:47:40 如果登录了就什么都不做, 继续下一个请求函数
+17:47:40 debug path,[object Object]
+17:52:44 listening server at http://0.0.0.0:2333
+17:53:7 listening server at http://0.0.0.0:2333
+17:53:49 listening server at http://0.0.0.0:2333
+17:54:21 listening server at http://0.0.0.0:2333
+17:54:32 listening server at http://0.0.0.0:2333
+17:59:20 listening server at http://0.0.0.0:2333
+17:59:35 listening server at http://0.0.0.0:2333
+18:1:59 listening server at http://0.0.0.0:2333
+18:3:25 listening server at http://0.0.0.0:2333
+18:4:9 listening server at http://0.0.0.0:2333
+18:5:17 listening server at http://0.0.0.0:2333
+18:7:15 listening server at http://0.0.0.0:2333
+18:8:2 listening server at http://0.0.0.0:2333
+18:8:18 listening server at http://0.0.0.0:2333
+18:8:26 listening server at http://0.0.0.0:2333
+18:8:52 listening server at http://0.0.0.0:2333
+18:10:0 listening server at http://0.0.0.0:2333
+18:12:24 listening server at http://0.0.0.0:2333
+18:13:28 listening server at http://0.0.0.0:2333
+18:13:37 listening server at http://0.0.0.0:2333
+18:15:13 listening server at http://0.0.0.0:2333
+18:17:8 listening server at http://0.0.0.0:2333
+18:17:27 listening server at http://0.0.0.0:2333
+18:18:24 listening server at http://0.0.0.0:2333
+18:19:35 listening server at http://0.0.0.0:2333
+18:20:37 listening server at http://0.0.0.0:2333
+18:26:6 listening server at http://0.0.0.0:2333
+18:26:9 listening server at http://0.0.0.0:2333
+18:36:43 listening server at http://0.0.0.0:2333
+18:36:46 listening server at http://0.0.0.0:2333
+18:42:44 debug ms,[object Object]
+18:42:45 debug board id in route,-1
+18:43:0 如果登录了就什么都不做, 继续下一个请求函数
+18:46:44 debug board id in route,-1
+18:47:41 debug board id in route,-1
+18:48:25 listening server at http://0.0.0.0:2333
+18:48:30 debug board id in route,-1
+18:48:32 debug board id in route,-1
+18:48:32 debug board id in route,-1
+18:48:45 debug board id in route,-1
+18:48:48 登录检测: 没有登录,GET
+18:48:55 debug board id in route,-1
+18:48:56 debug board id in route,-1
+18:48:57 debug board id in route,-1
+18:48:57 debug board id in route,-1
+18:49:21 listening server at http://0.0.0.0:2333
+18:50:2 listening server at http://0.0.0.0:2333
+18:50:47 listening server at http://0.0.0.0:2333
+18:50:52 listening server at http://0.0.0.0:2333
+18:50:55 登录检测: 没有登录,GET
+18:51:16 debug ms,[object Object]
+18:51:18 debug ms,[object Object]
+18:51:18 debug ms,[object Object]
+18:51:19 debug ms,[object Object]
+18:51:19 debug ms,[object Object]
+18:51:19 debug ms,[object Object]
+18:51:19 debug ms,[object Object]
+18:51:20 debug ms,[object Object]
+18:51:21 debug ms,[object Object]
+18:51:21 debug ms,[object Object]
+18:51:22 debug ms,[object Object]
+18:51:22 debug ms,[object Object]
+18:51:23 debug ms,[object Object]
+18:51:23 debug ms,[object Object]
+18:51:24 debug ms,[object Object]
+18:51:24 debug ms,[object Object]
+18:51:25 debug ms,[object Object]
+18:51:32 debug ms,[object Object]
+18:51:48 debug ms,[object Object]
+18:52:43 listening server at http://0.0.0.0:2333
+18:53:3 listening server at http://0.0.0.0:2333
+18:53:15 listening server at http://0.0.0.0:2333
+19:29:43 listening server at http://0.0.0.0:2333
+19:31:15 listening server at http://0.0.0.0:2333
+19:32:46 listening server at http://0.0.0.0:2333
+19:33:17 listening server at http://0.0.0.0:2333
+19:34:13 listening server at http://0.0.0.0:2333
+19:35:33 listening server at http://0.0.0.0:2333
+19:35:35 登录检测: 没有登录,GET
+19:35:44 listening server at http://0.0.0.0:2333
+19:35:47 listening server at http://0.0.0.0:2333
+19:35:55 debug ms,[object Object]
+20:17:14 listening server at http://0.0.0.0:2333
+20:18:26 debug ms,[object Object]
+20:21:18 debug ms,[object Object]
+20:21:50 debug ms,[object Object]
+20:22:18 debug ms,[object Object]
+20:23:54 debug ms,[object Object]
+20:25:57 listening server at http://0.0.0.0:2333
+20:29:42 listening server at http://0.0.0.0:2333
+20:30:39 listening server at http://0.0.0.0:2333
+20:30:44 listening server at http://0.0.0.0:2333
+20:30:55 debug ms,[object Object]
+20:32:6 listening server at http://0.0.0.0:2333
+20:32:12 debug ms,[object Object]
+20:32:13 debug u,[object Object]
+20:32:14 debug ms,[object Object]
+20:32:38 listening server at http://0.0.0.0:2333
+20:32:57 listening server at http://0.0.0.0:2333
+20:33:3 debug ms,[object Object]
+20:33:4 debug u,[object Object]
+20:33:34 debug ms,[object Object]
+20:33:35 debug u,[object Object]
+20:34:20 listening server at http://0.0.0.0:2333
+20:34:24 debug ms,[object Object]
+20:34:25 debug u,[object Object],function () {
+                return false
+            }
+20:38:50 listening server at http://0.0.0.0:2333
+20:40:12 debug ms,[object Object]
+20:40:38 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": ""
+},isAdmin() {
+        return this.id === 1
+    }
+20:40:38 debug ms,{
+  "id": 2,
+  "title": "分享",
+  "ct": 1496474854061,
+  "ut": 1496474854061
+},{
+  "id": 3,
+  "title": "问答",
+  "ct": 1496474861826,
+  "ut": 1496474861826
+}
+20:41:30 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": ""
+},isAdmin() {
+        return this.id === 1
+    }
+20:41:30 debug ms,{
+  "id": 2,
+  "title": "分享",
+  "ct": 1496474854061,
+  "ut": 1496474854061
+},{
+  "id": 3,
+  "title": "问答",
+  "ct": 1496474861826,
+  "ut": 1496474861826
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+}
+20:41:38 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": ""
+},isAdmin() {
+        return this.id === 1
+    }
+20:41:38 debug ms,{
+  "id": 2,
+  "title": "分享",
+  "ct": 1496474854061,
+  "ut": 1496474854061
+},{
+  "id": 3,
+  "title": "问答",
+  "ct": 1496474861826,
+  "ut": 1496474861826
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+20:53:22 model,{
+  "id": 2,
+  "title": "分享",
+  "ct": 1496474854061,
+  "ut": 1496474854061
+}
+20:53:25 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": ""
+},isAdmin() {
+        return this.id === 1
+    }
+20:53:25 debug ms,{
+  "id": 2,
+  "title": "分享123",
+  "ct": 1496474854061,
+  "ut": 1496494405017
+},{
+  "id": 3,
+  "title": "问答",
+  "ct": 1496474861826,
+  "ut": 1496474861826
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+20:53:26 model,{
+  "id": 3,
+  "title": "问答",
+  "ct": 1496474861826,
+  "ut": 1496474861826
+}
+20:53:28 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": ""
+},isAdmin() {
+        return this.id === 1
+    }
+20:53:28 debug ms,{
+  "id": 2,
+  "title": "分享123",
+  "ct": 1496474854061,
+  "ut": 1496494405017
+},{
+  "id": 3,
+  "title": "问答1",
+  "ct": 1496474861826,
+  "ut": 1496494408326
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+20:54:1 debug ms,[object Object]
+20:54:3 debug ms,[object Object]
+20:54:5 debug u,[object Object],function () {
+                return false
+            }
+20:54:50 listening server at http://0.0.0.0:2333
+20:54:56 listening server at http://0.0.0.0:2333
+20:55:3 model,{
+  "id": 3,
+  "title": "问答1",
+  "ct": 1496474861826,
+  "ut": 1496494408326
+}
+20:55:9 debug u,[object Object],function () {
+                return false
+            }
+20:55:33 listening server at http://0.0.0.0:2333
+20:55:59 listening server at http://0.0.0.0:2333
+20:56:10 debug ms,[object Object]
+21:0:27 如果登录了就什么都不做, 继续下一个请求函数
+21:0:39 如果登录了就什么都不做, 继续下一个请求函数
+21:8:17 listening server at http://0.0.0.0:2333
+21:16:0 listening server at http://0.0.0.0:2333
+21:17:30 如果登录了就什么都不做, 继续下一个请求函数
+21:19:5 如果登录了就什么都不做, 继续下一个请求函数
+21:19:5 debug request file,[object Object]
+21:19:5 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "74cd610a18349abef42dd7d05f3d2336"
+}
+21:19:5 如果登录了就什么都不做, 继续下一个请求函数
+21:22:31 如果登录了就什么都不做, 继续下一个请求函数
+21:22:31 debug request file,[object Object]
+21:22:31 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "9e63680ccbf89bcc0d61858948e2de0c"
+}
+21:22:31 如果登录了就什么都不做, 继续下一个请求函数
+21:25:49 listening server at http://0.0.0.0:2333
+21:28:50 listening server at http://0.0.0.0:2333
+21:29:26 debug ms,[object Object]
+21:29:27 debug ms,[object Object]
+21:29:38 debug ms,[object Object]
+21:30:46 debug ms,[object Object]
+21:30:52 debug ms,[object Object]
+21:30:57 如果登录了就什么都不做, 继续下一个请求函数
+21:30:59 如果登录了就什么都不做, 继续下一个请求函数
+21:31:6 如果登录了就什么都不做, 继续下一个请求函数
+21:31:6 debug request file,[object Object]
+21:31:6 debug u,{
+  "id": 2,
+  "username": "lin",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "c85c42ee3f09dc6dbf8f7f2cbcb2f664"
+}
+21:31:6 如果登录了就什么都不做, 继续下一个请求函数
+21:32:59 listening server at http://0.0.0.0:2333
+21:33:42 listening server at http://0.0.0.0:2333
+21:33:48 debug ms,[object Object]
+21:33:58 如果登录了就什么都不做, 继续下一个请求函数
+21:36:47 listening server at http://0.0.0.0:2333
+21:45:56 debug ms,[object Object]
+21:46:4 debug ms,[object Object]
+21:46:5 debug ms,{
+  "id": 2,
+  "title": "分享123",
+  "ct": 1496474854061,
+  "ut": 1496494405017
+},{
+  "id": 3,
+  "title": "问答1",
+  "ct": 1496474861826,
+  "ut": 1496494509568
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+21:47:20 debug ms,{
+  "id": 2,
+  "title": "分享123",
+  "ct": 1496474854061,
+  "ut": 1496494405017
+},{
+  "id": 3,
+  "title": "问答1",
+  "ct": 1496474861826,
+  "ut": 1496494509568
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+21:47:23 debug ms,{
+  "id": 3,
+  "title": "问答1",
+  "ct": 1496474861826,
+  "ut": 1496494509568
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+21:47:26 debug ms,{
+  "id": 3,
+  "title": "问答1",
+  "ct": 1496474861826,
+  "ut": 1496494509568
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+21:49:16 debug ms,{
+  "id": 3,
+  "title": "问答1",
+  "ct": 1496474861826,
+  "ut": 1496494509568
+},{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+21:51:30 listening server at http://0.0.0.0:2333
+21:52:1 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+21:52:7 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+21:54:18 listening server at http://0.0.0.0:2333
+21:56:28 listening server at http://0.0.0.0:2333
+22:1:16 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:1:51 listening server at http://0.0.0.0:2333
+22:1:55 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:1:55 debug token,0.6017519887427707
+22:3:1 listening server at http://0.0.0.0:2333
+22:3:3 listening server at http://0.0.0.0:2333
+22:3:5 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:3:5 debug token,0.2515529059003221
+22:3:24 如果登录了就什么都不做, 继续下一个请求函数
+22:3:32 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:3:32 debug token,0.6510212331787015
+22:4:5 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:4:5 debug token,0.36719953523488313
+22:4:31 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:4:31 debug token,0.5973656029399337
+22:4:42 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:4:42 debug token,0.31633163734145753
+22:5:4 如果登录了就什么都不做, 继续下一个请求函数
+22:5:8 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:5:8 debug token,0.23460346419481937
+22:6:3 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:6:3 debug token,0.6326789607170049
+22:9:16 listening server at http://0.0.0.0:2333
+22:10:50 debug ms,[object Object]
+22:10:52 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+22:10:52 debug token,0.9804003524615275
+22:11:15 如果登录了就什么都不做, 继续下一个请求函数
+22:13:33 如果登录了就什么都不做, 继续下一个请求函数
+22:16:21 如果登录了就什么都不做, 继续下一个请求函数
+22:16:50 如果登录了就什么都不做, 继续下一个请求函数
+22:18:30 如果登录了就什么都不做, 继续下一个请求函数
+22:19:27 listening server at http://0.0.0.0:2333
+22:19:39 listening server at http://0.0.0.0:2333
+22:19:49 listening server at http://0.0.0.0:2333
+22:19:53 listening server at http://0.0.0.0:2333
+22:19:55 listening server at http://0.0.0.0:2333
+22:19:57 如果登录了就什么都不做, 继续下一个请求函数
+22:20:5 listening server at http://0.0.0.0:2333
+22:20:36 listening server at http://0.0.0.0:2333
+22:20:48 listening server at http://0.0.0.0:2333
+22:21:17 listening server at http://0.0.0.0:2333
+22:21:41 listening server at http://0.0.0.0:2333
+22:21:56 如果登录了就什么都不做, 继续下一个请求函数
+22:22:10 listening server at http://0.0.0.0:2333
+22:22:13 如果登录了就什么都不做, 继续下一个请求函数
+22:23:26 listening server at http://0.0.0.0:2333
+22:23:31 listening server at http://0.0.0.0:2333
+22:23:46 listening server at http://0.0.0.0:2333
+22:24:50 listening server at http://0.0.0.0:2333
+22:24:53 如果登录了就什么都不做, 继续下一个请求函数
+22:24:59 如果登录了就什么都不做, 继续下一个请求函数
+22:24:59 debug request file,[object Object]
+22:24:59 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "a11fb964a40e5630b3dbdc75be59cc8a"
+}
+22:24:59 如果登录了就什么都不做, 继续下一个请求函数
+22:25:44 listening server at http://0.0.0.0:2333
+22:26:14 listening server at http://0.0.0.0:2333
+22:26:15 如果登录了就什么都不做, 继续下一个请求函数
+22:26:22 如果登录了就什么都不做, 继续下一个请求函数
+22:26:22 debug request file,[object Object]
+22:26:22 debug u,{
+  "id": 1,
+  "username": "gua",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "245a05b4f3595a3231af58c3762b81fb"
+}
+22:26:22 如果登录了就什么都不做, 继续下一个请求函数
+22:26:27 如果登录了就什么都不做, 继续下一个请求函数
+22:28:24 listening server at http://0.0.0.0:2333
+21:2:41 listening server at http://0.0.0.0:8888
+21:2:52 debug ms,[object Object]
+23:35:49 listening server at http://0.0.0.0:8888
+23:42:55 debug ms,[object Object]
+23:44:21 debug ms,[object Object]
+23:51:34 listening server at http://0.0.0.0:8888
+23:51:38 debug args,[object Object]
+23:52:16 debug args,[object Object]
+23:52:25 debug ms,[object Object]
+23:52:28 debug args,[object Object]
+23:52:34 debug ms,[object Object]
+23:52:35 debug args,[object Object]
+23:53:3 debug ms,[object Object]
+23:53:5 debug args,[object Object]
+23:54:56 debug ms,[object Object]
+23:54:58 debug args,[object Object]
+23:55:0 debug args,[object Object]
+23:58:34 debug args,[object Object]
+23:58:36 debug args,[object Object]
+23:58:38 debug args,[object Object]
+23:58:39 debug ms,[object Object]
+23:58:39 debug args,[object Object]
+23:58:46 debug args,[object Object]
+23:59:33 debug args,[object Object]
+23:59:34 debug args,[object Object]
+23:59:35 debug args,[object Object]
+0:1:8 listening server at http://0.0.0.0:8888
+0:1:12 debug args,[object Object]
+0:1:35 debug args,[object Object]
+0:3:2 listening server at http://0.0.0.0:8888
+0:3:20 listening server at http://0.0.0.0:8888
+0:4:29 listening server at http://0.0.0.0:8888
+0:4:40 debug ms,[object Object]
+0:6:17 listening server at http://0.0.0.0:8888
+0:6:23 debug ms,[object Object]
+0:6:38 debug ms,[object Object]
+0:7:3 debug ms,[object Object]
+0:7:12 如果登录了就什么都不做, 继续下一个请求函数
+0:11:43 listening server at http://0.0.0.0:8888
+0:11:55 debug ms,[object Object]
+0:11:57 debug ms,[object Object]
+0:12:2 debug ms,[object Object]
+0:12:8 debug ms,[object Object]
+0:12:16 debug ms,[object Object]
+0:12:24 debug ms,[object Object]
+0:12:30 debug ms,[object Object]
+0:12:34 debug ms,[object Object]
+0:13:7 如果登录了就什么都不做, 继续下一个请求函数
+0:13:24 如果登录了就什么都不做, 继续下一个请求函数
+0:13:24 debug request file,[object Object]
+0:13:24 debug u,{
+  "id": 3,
+  "username": "rookie",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "dfa10a9c6ee431d8653dc0835fe9e1dd"
+}
+0:13:24 如果登录了就什么都不做, 继续下一个请求函数
+0:13:43 debug ms,[object Object]
+0:15:0 debug ms,[object Object]
+0:15:7 debug ms,[object Object]
+0:15:14 debug ms,[object Object]
+0:20:10 listening server at http://0.0.0.0:8888
+0:20:10 debug ms,[object Object]
+0:20:15 debug ms,[object Object]
+0:20:54 listening server at http://0.0.0.0:8888
+0:21:3 debug ms,[object Object]
+0:22:1 debug ms,[object Object]
+0:22:8 debug ms,[object Object]
+0:22:16 debug ms,[object Object]
+0:22:19 debug ms,[object Object]
+0:23:43 listening server at http://0.0.0.0:8888
+0:24:7 listening server at http://0.0.0.0:8888
+0:24:45 listening server at http://0.0.0.0:8888
+0:25:3 listening server at http://0.0.0.0:8888
+0:25:36 listening server at http://0.0.0.0:8888
+0:25:43 debug ms,[object Object]
+0:25:53 listening server at http://0.0.0.0:8888
+0:25:55 debug ms,[object Object]
+0:26:1 debug ms,[object Object]
+0:26:4 debug ms,[object Object]
+0:27:49 listening server at http://0.0.0.0:8888
+0:28:34 debug ms,[object Object]
+0:28:43 debug ms,[object Object]
+0:30:34 debug ms,[object Object]
+0:30:48 debug ms,[object Object]
+0:31:12 debug ms,[object Object]
+0:31:17 debug ms,[object Object]
+0:32:8 debug ms,[object Object]
+0:32:30 listening server at http://0.0.0.0:8888
+0:32:54 如果登录了就什么都不做, 继续下一个请求函数
+0:35:10 listening server at http://0.0.0.0:8888
+0:35:54 listening server at http://0.0.0.0:8888
+0:36:59 如果登录了就什么都不做, 继续下一个请求函数
+0:40:3 如果登录了就什么都不做, 继续下一个请求函数
+0:40:58 如果登录了就什么都不做, 继续下一个请求函数
+0:42:41 listening server at http://0.0.0.0:8888
+0:44:5 listening server at http://0.0.0.0:8888
+0:45:15 listening server at http://0.0.0.0:8888
+0:45:32 如果登录了就什么都不做, 继续下一个请求函数
+0:45:47 如果登录了就什么都不做, 继续下一个请求函数
+0:45:47 debug request file,[object Object]
+0:45:47 debug u,{
+  "id": 1,
+  "username": "rookie",
+  "password": "6aa61ba1213b734b79cd659110994562d085d326",
+  "note": "",
+  "role": 2,
+  "avatar": "8e902d3b2e610cc747b3c4950b97dcff"
+}
+0:45:47 如果登录了就什么都不做, 继续下一个请求函数
+0:46:3 如果登录了就什么都不做, 继续下一个请求函数
+0:46:29 如果登录了就什么都不做, 继续下一个请求函数
+0:46:38 如果登录了就什么都不做, 继续下一个请求函数
+1:5:37 listening server at http://0.0.0.0:8888
+1:5:49 listening server at http://0.0.0.0:8888
+1:6:8 listening server at http://0.0.0.0:8888
+1:6:57 listening server at http://0.0.0.0:8888
+1:7:1 如果登录了就什么都不做, 继续下一个请求函数
+1:7:4 如果登录了就什么都不做, 继续下一个请求函数
+1:7:10 如果登录了就什么都不做, 继续下一个请求函数
+1:7:33 如果登录了就什么都不做, 继续下一个请求函数
+1:8:46 listening server at http://0.0.0.0:8888
+1:8:49 debug ms,[object Object]
+1:8:51 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+}
+1:8:51 debug token,0.22157910340351816
+1:8:57 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+},{
+  "id": 6,
+  "title": "精华",
+  "ct": 1531242537415,
+  "ut": 1531242537415
+}
+1:8:57 debug token,0.08113389711707297
+1:9:2 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+},{
+  "id": 6,
+  "title": "精华",
+  "ct": 1531242537415,
+  "ut": 1531242537415
+},{
+  "id": 7,
+  "title": "分享",
+  "ct": 1531242542709,
+  "ut": 1531242542709
+}
+1:9:2 debug token,0.05540897481397056
+1:9:17 debug ms,{
+  "id": 4,
+  "title": "招聘",
+  "ct": 1496493690012,
+  "ut": 1496493690012
+},{
+  "id": 5,
+  "title": "测试",
+  "ct": 1496493698282,
+  "ut": 1496493698282
+},{
+  "id": 6,
+  "title": "精华",
+  "ct": 1531242537415,
+  "ut": 1531242537415
+},{
+  "id": 7,
+  "title": "分享",
+  "ct": 1531242542709,
+  "ut": 1531242542709
+},{
+  "id": 8,
+  "title": "问答",
+  "ct": 1531242557418,
+  "ut": 1531242557418
+}
+1:9:17 debug token,0.21080878463879116
+1:10:36 listening server at http://0.0.0.0:8888
+1:15:2 listening server at http://0.0.0.0:8888
+1:15:12 debug ms,[object Object]
+1:15:15 debug ms,[object Object]
