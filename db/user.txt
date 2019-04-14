@@ -14,5 +14,13 @@
     "note": "",
     "role": 2,
     "avatar": "9e63680ccbf89bcc0d61858948e2de0c"
+  },
+  {
+    "id": 3,
+    "username": "test1",
+    "password": "6707532ce91b755ea04b37f7ee4d5ef0af9162ba",
+    "note": "",
+    "role": 2,
+    "avatar": "9e63680ccbf89bcc0d61858948e2de0c"
   }
 ]
