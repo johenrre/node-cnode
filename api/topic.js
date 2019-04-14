@@ -21,9 +21,10 @@ router.get('/all', (request, response) => {
     const dict = {
         success: true,
         data: ms,
-        message: '',
+        message: 'all',
     }
-    jsonResponse(request, response, dict)
+    response.json(dict)
+    // jsonResponse(request, response, dict)
 })
 
 router.get('/detail/:id', (request, response) => {

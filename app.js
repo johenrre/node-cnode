@@ -3,30 +3,36 @@ const nunjucks = require('nunjucks')
 const bodyParser = require('body-parser')
 const session = require('cookie-session')
 
+/**
+ * 服务器配置 cors
+ * 允许跨域请求
+ */
 // 服务器端配置 引入 cors 模块
 // const cors = require('cors')
 
+// 配置 cors, 允许所有 cors 请求通过
+//app.use(cors())
+
 const { log } = require('./utils')
-const { secretKey } = require('./config')
-// 上面一行相当于下面两行
-// const a = require('./config')
-// const secretKey = a.secretKey
 
 // 先初始化一个 express 实例
 const app = express()
 
-// 配置 cors, 允许所有 cors 请求通过
-// app.use(cors())
-
-// 设置 bodyParser
-// application/x-www-form-urlencoded
+/**
+ * 设置 bodyParser
+ */
+// express 添加bodyParser
 app.use(bodyParser.urlencoded({
     extended: false,
 }))
 // 设置 bodyParser 解析 json 格式的数据
 // application/json
 app.use(bodyParser.json())
-// 设置 session, 这里的 secretKey 是从 config.js 文件中拿到的
+
+/**
+ * 设置 session
+ */
+const { secretKey } = require('./config')
 app.use(session({
     secret: secretKey,
 }))
@@ -54,17 +60,14 @@ app.use('/static', express.static(asset))
 
 // 有时候在页面跳转的时候需要提示用户一些信息,
 // 比如某样操作需要管理员权限, 跳转到新页面的时候就要把这个信息告知用户
-// 这是一个套路写法, 直接记住这样用就可以
 app.use((request, response, next) => {
     // response.locals 会把数据传到页面中
     // 这里的处理方式是先把 flash 数据放在 session 中
     // 然后把 flash 里面的数据放在 response.locals 中
     // 接着删除 response.session 中的 flash 数据,
     // 这样只会在当前这次请求中使用 flash 数据
+    log('flash', request.session.flash);
     response.locals.flash = request.session.flash
-    // obj = { a: '123' }
-    // obj.a = null
-    // delete obj.a
     delete request.session.flash
     next()
 })
@@ -104,13 +107,11 @@ app.use((error, request, response) => {
     response.send('定制的 500 错误')
 })
 
-// 把逻辑放在单独的函数中, 这样可以方便地调用
 // 指定了默认的 host 和 port, 因为用的是默认参数, 当然可以在调用的时候传其他的值
 const run = (port=3000, host='') => {
     // app.listen 方法返回一个 http.Server 对象, 这样使用更方便
     // 实际上这个东西的底层是我们以前写的 net.Server 对象
     const server = app.listen(port, host, () => {
-        // 非常熟悉的方法
         const address = server.address()
         host = address.address
         port = address.port
@@ -119,7 +120,7 @@ const run = (port=3000, host='') => {
 }
 
 if (require.main === module) {
-    const port = 5000
+    const port = 3000
     // host 参数指定为 '0.0.0.0' 可以让别的机器访问你的代码
     const host = '0.0.0.0'
     run(port, host)
